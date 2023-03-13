@@ -1,1 +1,1 @@
-# hk-sui-demo-day
+# Sui Demo Day @ Hong Kong Builder House
