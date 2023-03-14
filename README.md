@@ -35,7 +35,7 @@ _If you are planning to participate in the Sui Demo Day, please indicate that wh
 
 4. Join the Sui Demo Day @ HK [telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
-![QR Code](../assets/demoqrcode.png)
+![QR Code](./assets/demoqrcode.png)
 
 ### Individual Participants 
 
