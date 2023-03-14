@@ -5,7 +5,8 @@
 - **Hong Kong Builder House**: April 14th - April 16th, 2023
 - **Demo Day**: April 16th, Afternoon
 - **Address**: 
-- **Builder House Registration Link**:
+- **Builder House Registration Link**
+- [**Sui Demo Day Telegram Super Group**](https://t.me/sui_demo_day_hk)
 
 _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
@@ -23,40 +24,43 @@ _If you are planning to participate in the Sui Demo Day, please indicate that wh
 - **Infrastructure and Dev Tooling**
 - **DID, Governance and Social**
 
-## Registration - March 19th to April 15th
+## Contest Structure
+
+### Registration - March 15th to April 15th
 
 1. Fill out this registration template form, and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
 
 2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
     
-    *Note that a given project can only register under one track.*
+    _Note: a given project can only register under one track._
 
-3. The submitted project information above will be public and used by in the voting and judging process, as well as other parts of the contest
+3. The submitted project information above will be public and used by in the voting and judging process, as well as other parts of the contest.
 
-4. Join the [Sui Demo Day @ HK telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
+4. Teams are free to update their submitted information up until the 15th, by submitting additional PR's.
 
-### Individual Participants 
+4. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
-For individual participants looking to form or join a team, please join the `Team Forming` channel in the Telegram super group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
-
-## Voting Period - April 14th to April 15th
-
-- Attendents of the HK builder house and other trusted community members can begin voting on submitted projects
-- The voting results will be used to select for Audience Favorite prizes
-- The results can also be used to select for projects to advance to the next round for categories that are oversubscribed. 
-- Voting structure: leaning toward ranked preference voting by category
-- People who vote on the competition will be eligible for special Sui swag
+    _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
 ### Demo Day - April 16th
 
-Will invite and select a panel of judges who can attend the demo day in person, from Sui Foundation, Mysten, partner organizations, VC’s, institutions, etc. 
-It’s preferable for external judges to outnumber Sui/Mysten judges to maintain neutrality 
-The actual demo period will be 2-4 hours (with ample breaks in between) depending on how many entries we get
-Let’s use 3 hours for example
-8 minutes per project, ~25 projects
-We can adjust the total time period and time per project depending on number of teams toward the end of registration period
-Live scoring is done on a number of criteria (drop lowest and highest scores and compute total scores, etc.)
-Determine category winners based on score tallies
+#### Demo Process
+
+- The actual demo period will be in the afternoon of April 16th, 2023
+- A schedule and the order of project demos will be provided to the teams in the evening of the 15th or morning of the 16th
+- 
+
+#### Audience Voting
+
+- Attendents of the HK builder house can voting on projects participating in the Demo Day
+- The voting results will be used to select for Audience Favorite prizes
+- Voting structure will be anonymous ranked preference voting by primary track
+- People who vote on the competition will be eligible for special Sui swag
+
+#### Panel Voting
+
+- Sui Foundation will invite and select a panel of judges and experts from Sui Foundation, Mysten, partner organizations, VC’s, institutions, etc. 
+
 Announce winners (pending KYC)  on the same day before the end of the builder house
 
 ## Prize Structure
