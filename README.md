@@ -36,11 +36,11 @@
     
     _Note: a given project can only register under one track._
 
-3. The submitted project information above will be public and used by in the voting and panel judging process
+3. The submitted project information above will be public and used by in the voting and panel judging process.
 
-4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo
+4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
 
-5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest
+5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
@@ -49,7 +49,7 @@
 #### Demo Process
 
 - The actual demo period will be in the afternoon of April 16th, 2023
-- A schedule of project demos will be provided to the teams in the evening of the 15th or morning of the 16th
+- A schedule of project demos will be provided to the teams in the evening of the 15th
 - Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort and care*
