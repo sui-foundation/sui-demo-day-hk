@@ -12,7 +12,7 @@ Email or Telegram or Twitter
 
 ## Project Description 
 
-Please limit to one page, you can include graphics by adding the images to the [`assets` folder](./assets/) in the same PR. 
+Please limit to one page, you can include graphics by adding the images to the `assets` [folder](./assets/) in the same PR. 
 
 ## Resources
 
