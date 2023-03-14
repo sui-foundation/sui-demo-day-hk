@@ -2,10 +2,10 @@
 
 ## Key Information
 
-**Hong Kong Builder House**: April 14th - April 16th, 2023
-**Demo Day**: April 16th, Afternoon
-**Address**: 
-**Builder House Registration Link**:
+- **Hong Kong Builder House**: April 14th - April 16th, 2023
+- **Demo Day**: April 16th, Afternoon
+- **Address**: 
+- **Builder House Registration Link**:
 
 _If you are participating in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
@@ -29,7 +29,7 @@ _If you are participating in the Sui Demo Day, please indicate that when you reg
 
 2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
 
-*Note that a project can only register under one track.*
+*Note that a given project can only register under one track.*
 
 3. The submitted project information above will be public and used by in the voting and judging process, as well as other parts of the contest
 
@@ -37,12 +37,11 @@ _If you are participating in the Sui Demo Day, please indicate that when you reg
 
 ### Individual Participants 
 
-For individual participants looking to form or join a team, please join this Telegram group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
+For individual participants looking to form or join a team, please join the relevant channel in the event Telegram super group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
 
-### Voting Period - April 14th to April 15th
+## Voting Period - April 14th to April 15th
 
-- Participants of the HK builder house and other trusted members online can begin voting on submitted projects
-- Voting will be done on-chain on Sui permanent testnet, and access controlled using smart contracts and capability tokens to prevent spam voting
+- Attendents of the HK builder house and other trusted community members can begin voting on submitted projects
 - The voting results will be used to select for Audience Favorite prizes
 - The results can also be used to select for projects to advance to the next round for categories that are oversubscribed. 
 - Voting structure: leaning toward ranked preference voting by category
@@ -60,6 +59,10 @@ Live scoring is done on a number of criteria (drop lowest and highest scores and
 Determine category winners based on score tallies
 Announce winners (pending KYC)  on the same day before the end of the builder house
 
+## Prize Structure
+
+
+
 ## Developer Resources
 
-
+TODO
