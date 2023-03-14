@@ -2,12 +2,12 @@
 
 ## Dates
 
-*Hong Kong Builder House Dates*: April 14th - April 16th, 2023
-*Demo Day Dates*: April 16th, Afternoon
-*Address*: 
-*Builder House Registration Link*:
+**Hong Kong Builder House**: April 14th - April 16th, 2023
+**Demo Day**: April 16th, Afternoon
+**Address**: 
+**Builder House Registration Link**:
 
-_If you participating in the Sui Demo Day, please indicate that when you register for the HK Builder House._
+_If you are participating in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
 ## Contest Eligibility
 
