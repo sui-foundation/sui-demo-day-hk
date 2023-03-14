@@ -35,6 +35,6 @@ Please limit to one page, you can include graphics by adding the images to the [
 - Is this a new project or feature built after the start of Testnet Wave 3 and during the builder house?
     - [ ]Yes
     - [ ]No
--  Do you agree to the terms and conditions of the Sui Demo Day @ HK contest?
+-  Do you agree to [the Terms and Conditions]() of the Sui Demo Day @ HK contest?
     - [ ]Yes
     - [ ]No
