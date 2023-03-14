@@ -3,7 +3,7 @@
 ## Key Information
 
 - **Hong Kong Builder House**: April 14th - April 16th, 2023
-- **Demo Day**: April 16th
+- **Demo Day**: April 16th, 2023
 - **Address**: 
 - **Builder House Registration Page**
 
