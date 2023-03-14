@@ -9,13 +9,14 @@
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
-- [**Sui Demo Day Telegram Super Group**](https://t.me/sui_demo_day_hk)
+- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 
 ## Contest Eligibility
 
 - The project must be deployed to Sui Devnet or Testnet, or otherwise integrated with Sui
+- Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
-- A member of the team must pass KYC to receive prizes
+- A member of the team must pass KYC to receive any prizes
 - For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
 
 ## Primary Tracks
