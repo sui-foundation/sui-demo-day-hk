@@ -27,11 +27,14 @@ Please limit to one page, you can include graphics by adding the images to the [
 ## Eligibility
 
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
-    - []Yes
-    - []No
+    - [ ]Yes
+    - [ ]No
 - Is someone from your team able to join the Sui Demo Day @ HK on April 16th, 2023?
-    - []Yes
-    - []No
+    - [ ]Yes
+    - [ ]No
 - Is this a new project or feature built after the start of Testnet Wave 3 and during the builder house?
-    - []Yes
-    - []No
+    - [ ]Yes
+    - [ ]No
+-  Do you agree to the terms and conditions of the Sui Demo Day @ HK contest?
+    - [ ]Yes
+    - [ ]No
