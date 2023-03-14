@@ -7,14 +7,14 @@
 - **Address**: 
 - **Builder House Registration Link**:
 
-_If you are participating in the Sui Demo Day, please indicate that when you register for the HK Builder House._
+_If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
 ## Contest Eligibility
 
 - The project must be deployed to Sui Devnet or Testnet 
-- At least one of the project's team members must be able to attend the Sui Demo Day in-person to present the project
-- At least one member of the team must pass KYC to receive prizes
-- For details legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
+- At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
+- A member of the team must pass KYC to receive prizes
+- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
 
 ## Primary Tracks
 
@@ -33,7 +33,9 @@ _If you are participating in the Sui Demo Day, please indicate that when you reg
 
 3. The submitted project information above will be public and used by in the voting and judging process, as well as other parts of the contest
 
-4. Join this telegram super group for coordination of the hackathon and demo day contest:
+4. Join the Sui Demo Day @ HK [telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
+
+![QR Code](../assets/demoqrcode.png)
 
 ### Individual Participants 
 
