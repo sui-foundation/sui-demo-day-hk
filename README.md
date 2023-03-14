@@ -13,7 +13,7 @@
 
 ## Contest Eligibility
 
-- The project must be deployed to Sui Devnet or Testnet 
+- The project must be deployed to Sui Devnet or Testnet, or otherwise integrated with Sui
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive prizes
 - For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
