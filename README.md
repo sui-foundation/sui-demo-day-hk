@@ -29,9 +29,9 @@
 
 ### Registration Period - March 15th to April 15th
 
-1. Fill out this registration template form, and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
+1. Fill out the [registration template form](./REGISTRATION_TEMPLATE.md), and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
 
-2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
+2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
     
     _Note: a given project can only register under one track._
 
@@ -39,7 +39,7 @@
 
 4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo
 
-5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
+5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
@@ -51,13 +51,12 @@
 - A schedule of project demos will be provided to the teams in the evening of the 15th or morning of the 16th
 - Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
 
-    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
+    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort and care*
 
 #### Audience Voting
 
 - Attendents of the HK builder house can vote on projects participating in the Demo Day
 - Voting structure will be anonymous ranked preference voting by primary track
-- Voting will be done on-chain on Sui testnet, and access controlled to prevent spam voting
 - The voting results will be used to select for Audience Favorite prizes
 - People who participate in voting will be eligible for special Sui swag
 
@@ -68,6 +67,8 @@
 - Judge panel scores will be used to determine the Judges Favorite Prizes
 
 ## Prize Structure
+
+The competition results will be announced on the same day on April 16th. The following prizes will be granted to the winning projects: 
 
 TODO
 
