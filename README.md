@@ -72,14 +72,7 @@ The competition results will be announced on the same day on April 16th before t
 
 Each of the four primary tracks will have the following prizes: 
 
-- Audience's Favorite: $3,000 USD
-- Audience's Favorite Runner-up: $1,500 USD
-- Judge's Choice: $3,000 USD
-- Judge's Choice Runner-up: $1,500 USD
-- Best New Project: $3,000 USD
-- Best New Project Runner-up: $1,500 USD
-
-For a total prize pool of $54,000 USD
+TBD
 
 ## Developer Resources
 
