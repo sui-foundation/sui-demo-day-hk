@@ -28,18 +28,16 @@ _If you are planning to participate in the Sui Demo Day, please indicate that wh
 1. Fill out this registration template form, and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
 
 2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
-
-*Note that a given project can only register under one track.*
+    
+    *Note that a given project can only register under one track.*
 
 3. The submitted project information above will be public and used by in the voting and judging process, as well as other parts of the contest
 
-4. Join the Sui Demo Day @ HK [telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
-
-![QR Code](./assets/demoqrcode.png)
+4. Join the [Sui Demo Day @ HK telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
 ### Individual Participants 
 
-For individual participants looking to form or join a team, please join the relevant channel in the event Telegram super group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
+For individual participants looking to form or join a team, please join the `Team Forming` channel in the Telegram super group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
 
 ## Voting Period - April 14th to April 15th
 
