@@ -1,6 +1,6 @@
-# Sui Demo Day Contest @ Hong Kong Builder House
+# Sui Demo Day @ Hong Kong
 
-## Dates
+## Key Information
 
 **Hong Kong Builder House**: April 14th - April 16th, 2023
 **Demo Day**: April 16th, Afternoon
@@ -13,16 +13,21 @@ _If you are participating in the Sui Demo Day, please indicate that when you reg
 
 - The project must be deployed to Sui Devnet or Testnet 
 - At least one of the project's team members must be able to attend the Sui Demo Day in-person to present the project
-- Prizes require the winning team to pass KYC
+- At least one member of the team must pass KYC to receive prizes
 - For details legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
 
-## Contest Structure
+## Primary Tracks
 
-### Registration - March 19th to April 15th
+- **DeFi and Payments**
+- **NFT and Gaming**
+- **Infrastructure and Dev Tooling**
+- **DID, Governance and Social**
 
-1. Fill out this registration template form, and change the file name to your project or team name, so that the file name would be of the form `[project/team name].md`. 
+## Registration - March 19th to April 15th
 
-2. Open a PR to submit the filled out registration template under the folder of the appropriate track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
+1. Fill out this registration template form, and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
+
+2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can fall under multiple tracks, please pick one that fits best. 
 
 *Note that a project can only register under one track.*
 
@@ -30,7 +35,7 @@ _If you are participating in the Sui Demo Day, please indicate that when you reg
 
 4. Join this telegram super group for coordination of the hackathon and demo day contest:
 
-#### Individual Participants 
+### Individual Participants 
 
 For individual participants looking to form or join a team, please join this Telegram group to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow. 
 
