@@ -29,9 +29,9 @@
 
 ### Registration Period - March 15th to April 15th
 
-1. Fill out the [registration template form](./REGISTRATION_TEMPLATE.md), and change the file name to your project or team name, so that the file name would be of the form `[project name].md`. 
+1. Fill out the [registration template form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name would be of the form `[project name].md`. 
 
-2. Open a PR to submit the filled out registration template under the folder of the appropriate primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
+2. Open a PR to submit the filled out registration template under the `main` branch in the folder of the appropriate primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
     
     _Note: a given project can only register under one track._
 
