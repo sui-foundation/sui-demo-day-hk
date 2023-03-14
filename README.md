@@ -17,7 +17,7 @@
 - Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
-- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)
+- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder)(TODO)
 
 ## Primary Tracks
 
