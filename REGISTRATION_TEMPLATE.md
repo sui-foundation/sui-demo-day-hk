@@ -18,11 +18,11 @@ Please limit to one page, you can include graphics by adding the images to the [
 
 ### Project Webpage URL
 
+### Project GitHub
+
 ### Video Demo URL 
 
 ### Pitch Deck URL
-
-### GitHub URl
 
 ## Eligibility
 
