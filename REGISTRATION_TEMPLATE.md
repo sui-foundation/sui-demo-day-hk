@@ -2,9 +2,9 @@
 
 ## Basic Information
 
-### Project Name
+### Project Name or Logo
 
-### Contact Information
+### Primary Contact
 
 Email or Telegram or Twitter
 
@@ -13,10 +13,6 @@ Email or Telegram or Twitter
 ### Project GitHub
 
 Optional if not open source
-
-### Other Materials 
-
-Link to pitch deck, demo video, etc. 
 
 ## Project Description 
 
@@ -28,8 +24,5 @@ Please limit to one page, you can include graphics by adding the images to the `
     - [ ] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
-    - [ ] Yes
-    - [ ] No
--  Do you agree to [the Terms and Conditions]() of the Sui Demo Day @ HK contest?
     - [ ] Yes
     - [ ] No
