@@ -6,7 +6,7 @@
 
 ### Primary Contact
 
-Email or Telegram or Twitter
+Email, Telegram or Twitter
 
 ### Project Webpage URL
 
