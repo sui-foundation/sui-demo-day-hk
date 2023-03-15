@@ -33,7 +33,7 @@ Optional
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
     - [ ] Yes
     - [ ] No
-- Is someone from your team able to join the Sui Demo Day @ HK on April 16th, 2023?
+- Is at least one person from your team able to join the Sui Demo Day @ HK in-person to present on April 16th, 2023?
     - [ ] Yes
     - [ ] No
 -  Do you agree to [the Terms and Conditions]() of the Sui Demo Day @ HK contest?
