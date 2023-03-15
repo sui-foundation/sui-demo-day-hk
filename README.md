@@ -56,7 +56,7 @@
 
 #### Audience Voting
 
-- Attendents of the HK builder house can vote on projects participating in the Demo Day
+- Attendees of the HK builder house can vote on projects participating in the Demo Day
 - Voting structure will be anonymous ranked preference voting by primary track
 - The voting results will be used to select for Audience Favorite prizes
 - People who participate in voting will be eligible for special Sui swag
