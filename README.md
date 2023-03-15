@@ -17,7 +17,7 @@
 - Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
-- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder) (TODO)
+- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder) (TODO).
 
 ## Primary Tracks
 
@@ -77,4 +77,12 @@ TBD
 
 ## Developer Resources
 
-TODO
+[Sui Developer Docs](https://docs.sui.io/)
+[Sui GitHub](https://github.com/MystenLabs/sui)
+[Sui Framework Documentaton](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
+[Sui Typescript SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript)
+[Sui Rust SDK](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk)
+[Sui Examples Book](https://examples.sui.io/)
+[Intro to Sui Move](https://github.com/sui-foundation/sui-move-intro-course)
+[Encode Club Sui Series](https://www.encode.club/sui-educate)
+[Buidler DAO Sui Video Series (Chinese)](https://www.youtube.com/watch?v=lZHjmo2ngu0&list=PL9t2y-BKvZBT4Kz3cflHrQLDBbVmdKM8E)
