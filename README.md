@@ -52,7 +52,7 @@
 - A schedule of project demos will be provided to the teams in the evening of the 15th
 - Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
 
-    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort and care*
+    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
 
 #### Audience Voting
 
@@ -73,7 +73,11 @@ The competition results will be announced on the same day on April 16th before t
 
 Each of the four primary tracks will have the following prizes: 
 
-TBD
+- Audience's Favorite 1st place ($3,000 USD) and 2nd place ($2,000 USD) based on audience voting results
+- Judge's Choice 1st place ($3,000 USD) and 2nd place ($2,000 USD) based on judge panel scores
+- Best New Project ($2,500 USD), eligible for new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria. 
+
+For a total prize pool of $50,000 USD.
 
 ## Developer Resources
 
