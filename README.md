@@ -71,13 +71,11 @@
 
 The competition results will be announced on the same day on April 16th before the end of the Sui Builder House. The prize pool will be divided between the four different primary tracks. 
 
-Each of the four primary tracks will have the following prizes: 
+Each of the four primary tracks will have the following prizes, for a combined prize pool of $50,000 USD: 
 
-- Audience's Favorite 1st place ($3,000 USD) and 2nd place ($2,000 USD) based on audience voting results
-- Judge's Choice 1st place ($3,000 USD) and 2nd place ($2,000 USD) based on judge panel scores
-- Best New Project ($2,500 USD), eligible to new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria
-
-    for a combined prize pool of $50,000.
+- **Audience's Favorite 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on audience voting results
+- **Judge's Choice 1st** place ($3,000 USD) and **2nd place** ($2,000 USD) based on judge panel scores
+- **Best New Project** ($2,500 USD), eligible to new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria
 
 ## Developer Resources
 
