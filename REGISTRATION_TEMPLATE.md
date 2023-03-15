@@ -1,32 +1,26 @@
 # Sui Demo Day @ HK Registration Template
 
-## Basic Informaation
+## Basic Information
 
 ### Project Name
 
-### Project Category
-
-### Primary Contact 
+### Contact Information
 
 Email or Telegram or Twitter
 
-## Project Description 
-
-Please limit to one page, you can include graphics by adding the images to the `assets` [folder](./assets/) in the same PR. 
-
-## Resources
-
 ### Project Webpage URL
-
-### Pitch Deck URL
 
 ### Project GitHub
 
 Optional if not open source
 
-### Video Demo URL 
+### Other Materials 
 
-Optional
+Link to pitch deck, demo video, etc. 
+
+## Project Description 
+
+Please limit to one page, you can include graphics by adding the images to the `assets` [folder](./assets/) in the same PR. 
 
 ## Eligibility
 
