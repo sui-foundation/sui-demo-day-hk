@@ -1,5 +1,9 @@
 # Sui Demo Day @ Hong Kong
 
+## Introduction
+
+Sui Foundation is hosting its first Demo Day event on the last day of the Sui Hong Kong Builder House. 
+
 ## Key Information
 
 - **Sui Hong Kong Builder House**: April 14th - April 16th, 2023
@@ -65,7 +69,7 @@
 
 - Sui Foundation will invite and select a panel of judges and experts from the Foundation, Mysten Labs, partner organizations, VC’s, institutions, and etc.
 - Judges will submit a scoresheet for each project demo, the lowest and highest scores will be dropped, and the sum of the remaining scores will be tallied
-- Judge panel scores will be used to determine the Judges Favorite Prizes
+- Judge panel scores will be used to determine the Judge's Choice winners
 
 ## Prize Structure
 
