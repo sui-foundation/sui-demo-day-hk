@@ -1,6 +1,6 @@
 
 
-# starrynift
+# StarryNift
 ![](https://d1uoymq29mtp9f.cloudfront.net/web/3D/tmp/logo/starrynift.png)
 
 
@@ -9,7 +9,9 @@ Website: <https://starrynift.art> 
 #### Primary Contact
 
 Twitter：https://twitter.com/StarryNift
+
 Email:     business@starrynift.com
+
 Telegram: https://t.me/starrynift
 
 #### GitHub Repository 
