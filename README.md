@@ -1,4 +1,4 @@
-# Sui Demo Day, Hong Kong
+# Sui Demo Day @ Hong Kong
 
 ## Overview
 
