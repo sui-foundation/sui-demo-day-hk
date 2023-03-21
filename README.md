@@ -1,13 +1,19 @@
 # Sui Demo Day @ Hong Kong
 
-## Introduction
+## Overview
 
-Sui Foundation is hosting its first Demo Day event on the last day of the Sui Hong Kong Builder House. 
+The Sui Foundation is hosting its first Sui Demo Day event in Hong Kong, on April 16th, 2023, as a part of the Sui Hong Kong Builder House.  
+
+Sui Foundation is an independent, non-profit organization dedicated to promoting the widespread adoption of Sui Network and its associated technology, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network, and thus creating a vibrant developer and application ecosystem; Sui Demo Day aims to foster those spirits.  
+
+Sui Demo Day is open to both new and existing projects and developers within the Sui ecosystem. The event aims to provide an open platform for projects, teams and individual developers on Sui to showcase what they are building, and receive support and valuable feedback from the community, industry experts and the Sui team. 
+
+Attendees of the Sui Builder House and Sui Demo Day event will have direct input through an on-chain voting process on which participating projects across four primary tracks should receive recognition and share a combined pool of $50,000 US dollars in prizes. 
 
 ## Key Information
 
 - **Sui Hong Kong Builder House**: April 14th - April 16th, 2023
-- **Demo Day**: April 16th, 2023
+- **Sui Demo Day**: April 16th, 2023
 - **Address**: 
 - **[Builder House Registration Page](https://lu.ma/sui.hongkong)**
 
@@ -30,17 +36,27 @@ Sui Foundation is hosting its first Demo Day event on the last day of the Sui Ho
 - **Infrastructure and Dev Tooling**
 - **DID, Governance and Social**
 
+## Registration 
+
+1. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest and related communication and updates
+
+2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
+
+    _Note: a given project can only register under one track._
+
+3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
+
+4. Open a pull request from your fork to the `registrations` branch of this repository to submit the filled out registration template form. Registration PR's will be merged regularly and once merged, the project will be considered registered for the Demo Day event. 
+
+### Individual Participants
+
 ## Contest Structure
 
 ### Registration Period - March 15th to April 15th
 
-1. Fill out the [registration template form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name would be of the form `[project name].md`. 
+1. Register for the Sui Demo Day by following the steps described above
 
-2. Open a PR to submit the filled out registration template under the `main` branch in the folder of the appropriate primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
-    
-    _Note: a given project can only register under one track._
-
-3. The submitted project information above will be public and used by in the voting and panel judging process.
+2. The submitted project information above will be public and used by in the audience voting and panel judging process.
 
 4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
 
@@ -48,12 +64,14 @@ Sui Foundation is hosting its first Demo Day event on the last day of the Sui Ho
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
+### Hong Kong Builder House - April 14th to April 16th
+
 ### Demo Day - April 16th
 
 #### Demo Process
 
 - The actual demo period will be in the afternoon of April 16th, 2023
-- A schedule of project demos will be provided to the teams in the evening of the 15th
+- A schedule of project demos will be provided to the participating teams in the evening of the 15th
 - Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
@@ -78,7 +96,7 @@ The competition results will be announced on the same day on April 16th before t
 Each of the four primary tracks will have the following prizes, for a combined prize pool of $50,000 USD: 
 
 - **Audience's Favorite 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on audience voting results
-- **Judge's Choice 1st** place ($3,000 USD) and **2nd place** ($2,000 USD) based on judge panel scores
+- **Judge's Choice 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on judge panel scores
 - **Best New Project** ($2,500 USD), eligible to new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria
 
 ## Developer Resources
