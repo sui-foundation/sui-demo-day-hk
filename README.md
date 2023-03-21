@@ -4,9 +4,9 @@
 
 The Sui Foundation is hosting its first Sui Demo Day event in Hong Kong, on April 16th, 2023, as a part of the Hong Kong Sui Builder House event.  
 
-Sui Foundation is an independent, non-profit organization dedicated to promoting the adoption of Sui Network and its associated technology, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network; Sui Demo Day aims to foster those spirits.  
+Sui Foundation is an independent, non-profit organization dedicated to promoting the adoption of Sui Network and its associated technology stack, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network; Sui Demo Day aims to foster those spirits.  
 
-Sui Demo Day is open to both new and existing projects and developers within the Sui ecosystem. The event aims to provide an open platform for projects, teams and individual developers on Sui to showcase what they are creating on Sui Network, and receive support and valuable feedback from the community and industry experts alike.
+Sui Demo Day is open to both new and existing projects and developers within the Sui ecosystem. The event aims to provide an open platform for projects, teams and individual developers on Sui to showcase what they are creating on Sui Network.
 
 ## Key Information
 
