@@ -2,13 +2,11 @@
 
 ## Overview
 
-The Sui Foundation is hosting its first Sui Demo Day event in Hong Kong, on April 16th, 2023, as a part of the Sui Hong Kong Builder House.  
+The Sui Foundation is hosting its first Sui Demo Day event in Hong Kong, on April 16th, 2023, as a part of the Hong Kong Sui Builder House event.  
 
-Sui Foundation is an independent, non-profit organization dedicated to promoting the widespread adoption of Sui Network and its associated technology, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network, and thus creating a vibrant developer and application ecosystem; Sui Demo Day aims to foster those spirits.  
+Sui Foundation is an independent, non-profit organization dedicated to promoting the adoption of Sui Network and its associated technology, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network; Sui Demo Day aims to foster those spirits.  
 
-Sui Demo Day is open to both new and existing projects and developers within the Sui ecosystem. The event aims to provide an open platform for projects, teams and individual developers on Sui to showcase what they are building, and receive support and valuable feedback from the community, industry experts and the Sui team. 
-
-Attendees of the Sui Builder House and Sui Demo Day event will have direct input through an on-chain voting process on which participating projects across four primary tracks should receive recognition and share a combined pool of $50,000 US dollars in prizes. 
+Sui Demo Day is open to both new and existing projects and developers within the Sui ecosystem. The event aims to provide an open platform for projects, teams and individual developers on Sui to showcase what they are creating on Sui Network, and receive support and valuable feedback from the community and industry experts alike.
 
 ## Key Information
 
