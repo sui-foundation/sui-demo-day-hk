@@ -47,8 +47,6 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 4. Open a pull request from your fork to the `registrations` branch of this repository to submit the filled out registration template form. Registration PR's will be merged regularly and once merged, the project will be considered registered for the Demo Day event. 
 
-### Individual Participants
-
 ## Contest Structure
 
 ### Registration Period - March 15th to April 15th
