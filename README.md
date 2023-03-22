@@ -16,9 +16,12 @@ Sui Demo Day is open to both new and existing projects and developers within the
 - **[Builder House Registration Page](https://lu.ma/sui.hongkong)**
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
-
-- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
+- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
+
+<p align="center">
+    <img src="./assets/demoqrcode2.png" alt="qrcode">
+</p>
 
 ## Contest Eligibility
 
@@ -38,10 +41,6 @@ Sui Demo Day is open to both new and existing projects and developers within the
 ## Registration 
 
 1. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest and related communication and updates
-
-<p align="center">
-    <img src="./assets/demoqrcode2.png" alt="qrcode">
-</p>
 
 2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
 
