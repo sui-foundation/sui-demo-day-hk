@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Sui Foundation is hosting its first Sui Demo Day event in Hong Kong, on April 16th, 2023, as a part of the Hong Kong Sui Builder House event.  
+The Sui Foundation is hosting its first Sui Demo Day in Hong Kong, on April 16th, 2023, as a part of the Hong Kong Sui Builder House event.  
 
 Sui Foundation is an independent, non-profit organization dedicated to promoting the adoption of Sui Network and its associated technology stack, such as the Sui Move smart contract language. Sui Foundation believes openness and competition will drive the most innovative and disruptive products to be built on Sui Network; Sui Demo Day aims to foster those spirits.  
 
@@ -18,6 +18,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 
 - [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
+- **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
 
 ## Contest Eligibility
 
@@ -46,8 +47,6 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 4. Open a pull request from your fork to the `registrations` branch of this repository to submit the filled out registration template form. Registration PR's will be merged regularly and once merged, the project will be considered registered for the Demo Day event. 
 
-### Individual Participants
-
 ## Contest Structure
 
 ### Registration Period - March 15th to April 15th
@@ -62,7 +61,11 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
-### Hong Kong Builder House - April 14th to April 16th
+### Hong Kong Sui Builder House - April 14th to April 16th
+
+Workspace will be available for project teams that join the Sui Builder House in Hong Kong to continue working on their projects, demos and etc. 
+
+Sui Foundation will also host a number of workshops on topics such as pitching, conducting live product demos, and other relevant topics for the contest, as well as ice breakers and matching sessions for anyone looking to join a team or start a project. 
 
 ### Demo Day - April 16th
 
