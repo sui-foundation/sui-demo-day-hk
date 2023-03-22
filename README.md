@@ -59,6 +59,8 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
+![qrcode](./assets/teleqr.png)
+
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
 ### Hong Kong Sui Builder House - April 14th to April 16th
