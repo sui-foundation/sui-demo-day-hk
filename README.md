@@ -39,7 +39,9 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 1. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest and related communication and updates
 
+<p align="center">
 ![qrcode](./assets/demoqrcode2.png)
+</p>
 
 2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
 
