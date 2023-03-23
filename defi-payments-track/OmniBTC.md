@@ -27,7 +27,7 @@ https://github.com/OmniBTC
 
 OmniBTC is a decentralized cross-chain swap and lend/borrow platform build on top of the Sui ecosystem, aiming to connect and unify all the on-chain liquidity for seamless and low-cost cross-chain transactions.  
 
-### Overvoew
+### Overview
 We offers a few key features and benefits:
 * **Sui-DEX-Aggregation**: by aggregating DEXs on Sui, users can swap assets with the lowest slippage, the lowest cost and the hightest speed.
 * **Cross-chain Swap**: users can realize cross-chain swap with 1-click across multi-VM ecosystems, now supporting both EVM and Move-VM.
