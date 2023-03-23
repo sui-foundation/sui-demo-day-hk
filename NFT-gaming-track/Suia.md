@@ -1,5 +1,5 @@
 # Suia
-![](https://drive.google.com/drive/folders/1VEjmVqglfxin7M0zM0t0oVC23qgLEi60)
+![](https://github.com/Jack0814/sui-demo-day-hk/blob/main/assets/logo-suia-colored.png)
 
 
 ### Project Name or Logo
@@ -23,7 +23,7 @@
 
 Suia.io is a social dApp built on Sui, where you can build new relationships based on NFT ownership.
 
-Suia has over 200K users, 50 Sui brands and 1.2 M txns, daily UV reaches 5k. We receive the Sui Grants & Sui Builder Heros and are also the dev partners of Sui in Asia to help its eco- expansion
+Suia has over 200K users, 50 Sui brands and 1.2 M txns, daily UV reaches 5k. We receive the Sui Grants & Sui Builder Heros and are also the dev partners of Sui in Asia to help its eco- expansion.
 
 
 ## Eligibility
