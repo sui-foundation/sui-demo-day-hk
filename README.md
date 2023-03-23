@@ -46,11 +46,11 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 1. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest and related communication and updates
 
-2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
+2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.MD) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
 
     _Note: a given project can only register under one track._
 
-3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
+3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.MD), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
 
 4. Open a pull request from your fork to the `registrations` branch of this repository to submit the filled out registration template form. Registration PR's will be merged regularly and once merged, the project will be considered registered for the Demo Day event. 
 
