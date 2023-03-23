@@ -6,7 +6,7 @@
 
 OmniBTC
 
-[logo](https://github.com/omniBTClabs/sui-demo-day-hk/blob/main/assets/OmniBTC.png)
+https://github.com/omniBTClabs/sui-demo-day-hk/blob/main/assets/OmniBTC.png
 
 ### Project Website
 
