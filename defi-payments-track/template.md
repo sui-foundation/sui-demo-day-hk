@@ -6,7 +6,7 @@
 
 OmniBTC
 
-You can also include the project logo by adding the image file to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
+[logo](https://github.com/omniBTClabs/sui-demo-day-hk/blob/main/assets/OmniBTC.png)
 
 ### Project Website
 
