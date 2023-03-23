@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./assets/hkbanner.png" alt="hkbanner">
+</p>
+
 # Sui Demo Day @ Hong Kong
 
 ## Overview
@@ -12,13 +16,16 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 - **Sui Hong Kong Builder House**: April 14th - April 16th, 2023
 - **Sui Demo Day**: April 16th, 2023
-- **Address**: [Kwun Tong - WeWork](https://goo.gl/maps/v66vREsXA1ucDqUq9), Two Harbour Square, 180, 26/F Wai Yip St, Kwun Tong, Hong Kong
+- **Address**: 
 - **[Builder House Registration Page](https://lu.ma/sui.hongkong)**
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
-
-- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
+- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
+
+<p align="center">
+    <img src="./assets/demoqrcode2.png" alt="qrcode">
+</p>
 
 ## Contest Eligibility
 
@@ -39,11 +46,11 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 1. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest and related communication and updates
 
-2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
+2. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.MD) under the sub-folder corresponding to the primary track that your project will be competing in. If your project can be categorized under multiple tracks, please pick one that fits best. 
 
     _Note: a given project can only register under one track._
 
-3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
+3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.MD), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
 
 4. Open a pull request from your fork to the `registrations` branch of this repository to submit the filled out registration template form. Registration PR's will be merged regularly and once merged, the project will be considered registered for the Demo Day event. 
 
@@ -104,7 +111,7 @@ Each of the four primary tracks will have the following prizes, for a combined p
 
 - [Sui Developer Docs](https://docs.sui.io/)
 - [Sui GitHub](https://github.com/MystenLabs/sui)
-- [Sui Framework Documentaton](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
+- [Sui Framework Documentation](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
 - [Sui Typescript SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript)
 - [Sui Rust SDK](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk)
 - [Sui Examples Book](https://examples.sui.io/)
