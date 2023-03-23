@@ -4,15 +4,15 @@
 
 ### Project Name or Logo
 
-**Suia:**https://suia.io/
-**Logo:**https://drive.google.com/drive/folders/1_sZ9GlsQo1p5ZWUO5O5sAS1QLsr_ewEW
+**Suia:** https://suia.io/
+**Logo:** https://drive.google.com/drive/folders/1_sZ9GlsQo1p5ZWUO5O5sAS1QLsr_ewEW
 
 
 ### Primary Contact
-**Twitter:**https://twitter.com/Suia2023
-**Telegram:**https://t.me/JackXiao2016
-**Email:**jack@mynft.io
-**GitHub Repository:**https://github.com/Mynft/suia
+**Twitter:** https://twitter.com/Suia2023
+**Telegram:** https://t.me/JackXiao2016
+**Email:** jack@mynft.io
+**GitHub Repository:** https://github.com/Mynft/suia
 
 
 ## Project Description
