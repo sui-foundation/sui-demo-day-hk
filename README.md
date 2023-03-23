@@ -111,7 +111,7 @@ Each of the four primary tracks will have the following prizes, for a combined p
 
 - [Sui Developer Docs](https://docs.sui.io/)
 - [Sui GitHub](https://github.com/MystenLabs/sui)
-- [Sui Framework Documentaton](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
+- [Sui Framework Documentation](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework/docs)
 - [Sui Typescript SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript)
 - [Sui Rust SDK](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk)
 - [Sui Examples Book](https://examples.sui.io/)
