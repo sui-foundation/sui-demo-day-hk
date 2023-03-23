@@ -1,4 +1,4 @@
-# OmniBTC
+# Cross-chain Swap & Lending based on Sui
 
 ## Basic Information
 
