@@ -16,7 +16,7 @@ https://test.omnibtc.finance/lending
 ### Primary Contact
 
 Email: business@chainnet.tech  
-Tg: https://t.me/JJuunee
+Tg: https://t.me/JJuunee  
 Twitter: https://twitter.com/OmniBTC
 
 ### GitHub Repository (Optional)
