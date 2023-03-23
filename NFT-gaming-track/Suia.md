@@ -4,7 +4,7 @@
 
 ### Project Name or Logo
 
-**Suia:** https://suia.io/
+**Suia Website:** https://suia.io/
 
 **Logo:** https://drive.google.com/drive/folders/1_sZ9GlsQo1p5ZWUO5O5sAS1QLsr_ewEW
 
