@@ -6,7 +6,7 @@ KriyaDEX (built by Efficacy Labs)
 
 ### Project Website
 
-Enter the project website's URL here
+[https://efficacy.finance/kriya-sui-dex/](https://efficacy.finance/kriya-sui-dex/)
 
 <br/>
 
