@@ -5,7 +5,9 @@
 ### Project Name or Logo
 
 Typus Finance
-<img src="./assets/Typus.png" alt="TypusLogo">
+<p align="center">
+    <img src="../assets/Typus.png" alt="TypusLogo" width="300">
+</p>
 
 ### Project Website
 
@@ -31,7 +33,9 @@ Passive LP solutions are critical in achieving scalable liquidity, but there are
 ### MVP
 Typus’ first product is a DeFi Option Vault (DOV) with Dutch Auction implemented to simplify retail users’ decision making process. By establishing an options marketplace for longtail assets, Typus provides enhanced risk rewards for LPs and deepens liquidity in the DeFi ecosystem.
 
-<img src="./assets/Typus-alt-infra.png" alt="TypusMVP">
+<p align="center">
+    <img src="../assets/Typus-alt-infra.png" alt="TypusMVP" width="800">
+</p>
 
 ### Practical Applications of Typus
 1. Projects: an innovative approach to project token releases through Typus’ covered call vaults
@@ -43,8 +47,8 @@ Typus’ first product is a DeFi Option Vault (DOV) with Dutch Auction implement
 ## Eligibility
 
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
-    - [o] Yes
+    - [x] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
-    - [o] Yes
+    - [x] Yes
     - [ ] No
