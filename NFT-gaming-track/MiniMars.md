@@ -10,8 +10,6 @@ Name: MiniMars
     <img src="../assets/minimars.jpg" alt="minimars logo" width="400">
 </p>
 
-![minimars logo](../assets/minimars.jpg)
-
 ### Project Website
 
 https://twitter.com/Minimars_Sui 
