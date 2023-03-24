@@ -18,7 +18,7 @@ https://typus.finance/
 Primary Contact
 Email: tommy@typuslab.com
 Twitter: https://twitter.com/TypusFinance
-TG: @Pentameal
+TG: [@Pentameal](https://t.me/Pentameal)
 
 ### GitHub Repository (Optional)
 
