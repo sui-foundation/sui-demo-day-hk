@@ -4,7 +4,11 @@
 
 ### Project Name or Logo
 
-MiniMars
+Name: MiniMars
+
+<p align="left">
+    <img src="../assets/minimars.jpg" alt="minimars logo" width="400">
+</p>
 
 ![minimars logo](../assets/minimars.jpg)
 
