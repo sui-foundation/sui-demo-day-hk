@@ -22,7 +22,7 @@
 ## Project Description
 
 Committed to being a lifestyle tool in the era of ***web3*** and ***AI***, ComingChat is bridging ***Web3*** and ***ChatGPT***. 
-- ***Sui mobile wallet***: There are 4 million ComingChat users.
+- ***Sui mobile wallet***: There are a total of 4 million ComingChat users on IOS and Android.
 - ***DMens***: The combination of "on-chain twitter" based on the Sui network and ChatGPT can help Sui build a value community platform on which you can enjoy the intelligent distribution of content on the chain.
 - ***GPTBot***： Provides customization of GPT chatbots in various roles through the Sui network as a payment channel.
 
