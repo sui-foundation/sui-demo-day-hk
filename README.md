@@ -16,7 +16,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 - **Sui Hong Kong Builder House**: April 14th - April 16th, 2023
 - **Sui Demo Day**: April 16th, 2023
-- **Address**: 
+- **Address**: [Eaton Club](https://goo.gl/maps/JM3iJA8EYWfNYj8bA), 5/F, Champion Tower, 3 Garden Rd, Central, Central, Hong Kong
 - **[Builder House Registration Page](https://lu.ma/sui.hongkong)**
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
