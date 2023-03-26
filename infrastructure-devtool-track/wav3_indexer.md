@@ -4,7 +4,9 @@
 
 ### Project Name or Logo
 
-Wav3 Indexer
+**Wav3 Indexer**
+
+![Wav3 Logo](../assets/WAV3_Logo_Color.png)
 
 ### Project Website
 
