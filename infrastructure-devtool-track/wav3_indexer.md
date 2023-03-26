@@ -16,7 +16,7 @@ Wav3 Indexer
 
 **Telegram:** https://t.me/alex_funke
 
-**Twitter:** https://twitter.com/aptos_wave
+**Twitter:** https://twitter.com/move_wav3
 
 ### GitHub Repository (Optional)
 
