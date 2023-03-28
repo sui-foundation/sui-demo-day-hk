@@ -1,4 +1,4 @@
-# Souffl3  An NFT NFT eco leader built on Sui
+# Souffl3  An NFT eco leader built on Sui
 
 **Souffl3**
 
@@ -21,7 +21,7 @@ Souffl3 is a 1-stop marketplace for launching, listing, and trading of NFT asset
 Benefiting from the smart trading features offered by Souffl3, users can track true floor prices across the chain, identify and sweep undervalued NFTs, participate in social trading, and much more.
 Our main product is also supplemented by evergreen loot box campaign [Bakeoff](https://souffl3.com/bakeoff), real-time on-chain [NFT explorer](aptoscan.xyz), [Freelaunch](https://souffl3.com/freelaunch), GameFi as a Service, etc. 
 
-We also represent the largest NFT community in the Move eco to date (over 200k on Twitter, over 150k on Discord).
+We also represent the largest NFT community in the Move eco to date (over 200k on Twitter, over 150k on Discord.
 
 
 ## Eligibility
