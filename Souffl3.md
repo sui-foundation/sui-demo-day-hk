@@ -19,9 +19,9 @@
 
 Souffl3 is a 1-stop marketplace for launching, listing, and trading of NFT assets  on Move. Souffl3 is multi-chain capable, pioneering the first NFT cross-chain product solution on Move, whilst allowing users to seamlessly enter Sui from other layer 1s. 
 Benefiting from the smart trading features offered by Souffl3, users can track true floor prices across the chain, identify and sweep undervalued NFTs, participate in social trading, and much more.
-Our main product is also supplemented by evergreen loot box campaign (souffl3.com/bakeoff), real-time on-chain NFT explorer (aptoscan.xyz), Freelaunch (souffl3.com/freelaunch), GameFi as a Service, etc. 
+Our main product is also supplemented by evergreen loot box campaign [Bakeoff](https://souffl3.com/bakeoff), real-time on-chain NFT explorer (aptoscan.xyz), [Freelaunch](https://souffl3.com/freelaunch), GameFi as a Service, etc. 
 
-Featuring the most long-lasting loot box campaign (souffl3.com/bakeoff) on Move, we represent the largest NFT community in the Move eco to date (over 200k on Twitter, over 150k on Discord).
+We also represent the largest NFT community in the Move eco to date (over 200k on Twitter, over 150k on Discord).
 
 
 ## Eligibility
