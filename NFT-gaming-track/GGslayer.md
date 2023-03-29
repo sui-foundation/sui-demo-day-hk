@@ -18,7 +18,7 @@ https://www.ggslayer.io
 
 ### GitHub Repository
 
-https://github.com/ggslayer
+https://github.com/GGslayer-DAO
 
 ## Project Description
 
