@@ -30,8 +30,7 @@ additional overhead of having to write your own integration code for the platfor
 
 The vision of sui4j is inspired by [Web3j](https://docs.web3j.io/), expect to accelerate JVM and Android ecosystem to integrate [@MystenLabs/sui](https://docs.sui.io/) network easily.
 
-Features
-========
+##### Features
 
 - Complete implementation of @MystenLabs/sui's [JSON-RPC](https://docs.sui.io/sui-jsonrpc) client
   API over HTTP
