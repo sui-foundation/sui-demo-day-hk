@@ -1,4 +1,4 @@
-# GGslayer - a nft marketplace on sui
+# GGslayer - The largest decentralized Web3 game community built on Sui
 
 ## Basic Information
 
