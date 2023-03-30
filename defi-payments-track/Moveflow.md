@@ -19,7 +19,7 @@ Twitter: https://twitter.com/MoveFlowLabs
 
 ### GitHub Repository (Optional)
 
-https://github.com/move-flow
+https://github.com/move-flow/moveflow-sui/
 
 ## Project Description
 
