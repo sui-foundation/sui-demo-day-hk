@@ -13,7 +13,7 @@ Sui4j
 ### Primary Contact
 
 - Email: 281165273grape@gmail.com
-- Telegram: @grapebaba
+- Telegram: [@grapebaba](https://t.me/grapebaba)
 - Twitter: [@GrapeBaBa](https://twitter.com/GrapeBaBa)
 
 ### GitHub Repository (Optional)
