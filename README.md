@@ -93,9 +93,10 @@ Sui Foundation will also host a number of workshops on topics such as pitching, 
 
 #### Panel Voting
 
-- Sui Foundation will invite and select a panel of judges and experts from the Foundation, Mysten Labs, partner organizations, VC’s, institutions, and etc.
+- Sui Foundation will invite and select a panel of judges and experts from partner organizations, VC’s, institutions, and so on
+- The rubric that judges will use to score demos can be viewed [here](https://suifoundation.notion.site/Rubric-Sui-Demo-Day-HK-bf1e821f452d48928c7988d5b942cab0)
 - Judges will submit a scoresheet for each project demo, the lowest and highest scores will be dropped, and the sum of the remaining scores will be tallied
-- Judge panel scores will be used to determine the Judge's Choice winners
+- Judge panel scores will be used to determine the Judge's Choice winners of each primary track
 
 ## Prize Structure
 
