@@ -4,35 +4,31 @@
 
 ### Project Name or Logo
 
-Shiba Shiba Doge
+Enter the project name here
 
-[Logo](https://shibashibadoge.com/img/ShibaShibaDoge.png)
+You can also include the project logo by adding the image file to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
 
 ### Project Website
 
-https://shibashibadoge.com/
+Enter the project website's URL here 
 
 ### Primary Contact
 
-Twitter: https://twitter.com/ShibaShibaDogeG
-
-Discord: https://discord.com/invite/8s2TSGSaTq
-
-Linktree: https://linktr.ee/shibashibadoge
+Email, Telegram or Twitter
 
 ### GitHub Repository (Optional)
 
-https://github.com/Shiba-Shiba-Doge/
+Enter the project's GitHub repo URL here, optional if not open source
 
-## Project Description
+## Project Description 
 
-Shiba Shiba Doge is a free-to-play online multiplayer social deduction game powered by Chainge Games. The game prioritizes playability and is accessible to everyone, crypto and non-crypto, with the support of an MPC wallet solution and multichain approach. Everyone can seamlessly play the game and earn via trading in-game items. Each person will explore the virtual game world as either a Shiba Inu ("good guy"), Doge ("killer"), or Shiba Inu lookalikes (“neutrals”). Each team has specific objectives to achieve in order to win the game.
+Please limit to one page, you can include graphics by adding the images to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
 
 ## Eligibility
 
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
-  - [ ] Yes
-  - [√] No
+    - [ ] Yes
+    - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
-  - [√] Yes
-  - [ ] No
+    - [ ] Yes
+    - [ ] No
