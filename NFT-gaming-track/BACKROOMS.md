@@ -1,6 +1,6 @@
 # BACKROOMS
 
-![](../assets/BACKROOMS.png)
+<img src="../assets/BACKROOMS.png"  width="300" height="300">
 
 ### Project Website
 
