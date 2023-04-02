@@ -1,13 +1,13 @@
 ## Basic Information
 
 # SuiGals
-![]()
+![](https://github.com/decendao/SuiGals-Deploy/blob/main/logo.png)
 
 ### Project Name or Logo
 
 *SuiGals*
 
-**Logo**:
+**Logo**: https://github.com/decendao/SuiGals-Deploy/blob/main/logo.png
 
 You can also include the project logo by adding the image file to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
 
@@ -22,14 +22,15 @@ Email: decendao@gmail.com
 
 ### GitHub Repository (Optional)
 
-Enter the project's GitHub repo URL here, optional if not open source
+[Enter the project's GitHub repo URL here, optional if not open source
+](https://github.com/decendao/SuiGals-Deploy)
 
 ## Project Description 
 
-Sui Native Virtual Idols NFT
+Sui-Native Virtual Idols NFT
 
-Introducing "SUIGALS," a groundbreaking virtual idol NFT series, set to become the metaverse ambassadors of the Sui network. 
-As the era of Artificial General Intelligence (AGI) dawns, virtual humans and idols will undergo a transformative shift. Previously, virtual idols were simply human creations with perfect appearances, lacking self-awareness and independent thinking. 
+Introducing "SUIGALS," a groundbreaking ####Virtual Idol NFT#### series, set to become the Metaverse Ambassadors of the Sui network. 
+As the era of Artificial General Intelligence (AGI) dawns, virtual humans will undergo a transformative shift. Previously, virtual idols were simply human creations with perfect appearances, lacking self-awareness and independent thinking. 
 However, with the rapid evolution of AI, virtual idols will soon possess the ability to create content autonomously, including writing songs, composing music, generating music videos, and hosting live concerts. 
 SUIGALS will embark on their metaverse careers, releasing music videos, live streaming, and performing concerts. 
 SUIGALS will also appear in various capacities across social media, gaming, and other metaverse projects.
