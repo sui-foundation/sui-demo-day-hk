@@ -13,7 +13,7 @@ You can also include the project logo by adding the image file to the `assets` [
 
 ### Project Website
 
-Enter the project website's URL here 
+https://suigals.vercel.app/
 
 ### Primary Contact
 
@@ -29,7 +29,7 @@ Email: decendao@gmail.com
 
 Sui-Native Virtual Idols NFT
 
-Introducing "SUIGALS," a groundbreaking ####Virtual Idol NFT#### series, set to become the Metaverse Ambassadors of the Sui network. 
+Introducing "SUIGALS," a groundbreaking ###Virtual Idol NFT### series, set to become the Metaverse Ambassadors of the Sui network. 
 
 As the era of Artificial General Intelligence (AGI) dawns, virtual humans will undergo a transformative shift. Previously, virtual idols were simply human creations with perfect appearances, lacking self-awareness and independent thinking. 
 However, with the rapid evolution of AI, virtual idols will soon possess the ability to create content autonomously, including writing songs, composing music, generating music videos, and hosting live concerts. 
