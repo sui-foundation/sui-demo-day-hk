@@ -1,7 +1,7 @@
 ## Basic Information
 
-# SuiGals
-![](https://github.com/decendao/SuiGals-Deploy/blob/main/logo.png)
+# SuiGals - Sui-Native Virtual Idols NFT
+![](https://github.com/decendao/SuiGals-Deploy/blob/main/banner.jpg)
 
 ### Project Name or Logo
 
@@ -14,6 +14,8 @@ You can also include the project logo by adding the image file to the `assets` [
 ### Project Website
 
 https://suigals.vercel.app/
+
+https://twitter.com/suigalsnft
 
 ### Primary Contact
 
