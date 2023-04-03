@@ -24,8 +24,7 @@ Email: decendao@gmail.com
 
 ### GitHub Repository (Optional)
 
-[Enter the project's GitHub repo URL here, optional if not open source
-](https://github.com/decendao/SuiGals-Deploy)
+(https://github.com/decendao/SuiGals-Deploy)
 
 ## Project Description 
 
