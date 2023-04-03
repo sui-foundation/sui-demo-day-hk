@@ -11,6 +11,7 @@ Degenhive is accessible at https://degenhive.com/
 ### Primary Contact
 
 Email - rahulmittal@astrotechlabs.com
+Telegram - @astro_martian
 
 ### GitHub Repository
 
