@@ -15,9 +15,9 @@ Scale Protocol
 https://scale.exchange/
 
 ### Primary Contact
-Email：carolina@scale.exchange
-Tele：@Carolina0921
-Twitter：@ScaleProtocol
+- Email：carolina@scale.exchange
+- Tele：@Carolina0921
+- Twitter：@ScaleProtocol
 
 ### GitHub Repository (Optional)
 https://github.com/scale-protocol
