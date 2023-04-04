@@ -59,7 +59,7 @@ Move source file (a file with a `.move` file extension) and:
 ## Eligibility
 
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
-    - [X] Yes
+    - [x] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
     - [x] Yes
