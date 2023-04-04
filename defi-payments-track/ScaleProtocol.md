@@ -7,7 +7,7 @@ Scale Protocol
 ### Logo
 
 <p align="center">
-    <img src="https://drive.google.com/file/d/1O_88VGM_udqWZvbazIl--9bChFV5ny9T/view?usp=share_link" alt="ScaleLogo" width="300">
+    <img src="https://scale-static.s3.ap-east-1.amazonaws.com/icon/ScaleLOGO.jpeg" alt="ScaleLogo" width="300">
 </p>
 
 
@@ -28,7 +28,7 @@ Scale Protocol is positioned to provide users with clear and transparent dealmak
 Team members graduated from the University of Hong Kong, City University of Hong Kong, Hong Kong Polytechnic University, and Cheung Kong Graduate School of Business in Finance, Information Technology, and MBA. They have nearly ten years of experience in global asset management, internet marketing and operating, and centralized exchange development and design. The consultant group has professional risk management skills in financial assets. The team has worked together for years on Web2 projects and cooperated with tacit understanding.
 
 <p align="center">
-    <img src="https://drive.google.com/file/d/1t3pr5Wo2ltOl8uxXtMuDfy1-w6DBXboq/view?usp=share_link" alt="ScaleDiagram" width="300">
+    <img src="https://scale-static.s3.ap-east-1.amazonaws.com/icon/DPF.jpeg" alt="ScaleDiagram" width="300">
 </p>
 
 
