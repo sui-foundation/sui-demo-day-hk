@@ -13,7 +13,7 @@ You can also include the project logo by adding the image file to the `assets` [
 
 ### Project Website
 
-https://suigals.vercel.app/
+suigals.com
 
 https://twitter.com/suigalsnft
 
@@ -24,7 +24,7 @@ Email: decendao@gmail.com
 
 ### GitHub Repository (Optional)
 
-(https://github.com/decendao/SuiGals-Deploy)
+https://github.com/decendao/SuiGals-Deploy
 
 ## Project Description 
 
