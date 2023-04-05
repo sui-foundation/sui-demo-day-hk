@@ -13,6 +13,7 @@ soundbeats.xyz
 ### Primary Contact
 
 twitter: shorturl.at/ruHS5
+
 discord: https://discord.gg/2Sxbu8wG9K
 
 ## Project Description 
