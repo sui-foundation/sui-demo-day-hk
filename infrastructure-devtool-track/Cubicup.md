@@ -1,34 +1,34 @@
-# Cubicup - Web3 Gaming Toolset on Sui
+# Cubic - Web3 Gaming Toolset on Sui
 
 ## Basic Information
 
 ### Project Name or Logo
 
-**Cubicup**
+**Cubic**
 
-![Cubicup Logo](../assets/cubicup_logo.png)
+![Cubicup Logo](../assets/cubic_logo.png)
 
 ### Project Website
 
-[cubicup.io](https://www.cubicup.io/)
+[cubicup.io](https://www.cubicgames.xyz/)
 
 ### Primary Contact
 
-**Email:** contact@cubicup.org alex@cubicup.org
+**Email:** contact@cubicgames.xyz alex@cubicgames.xyz
 
-**Telegram:** https://t.me/cubicupofficial
+**Telegram:** https://t.me/cubicgamesxyz
 
-**Twitter:** https://twitter.com/cubicupofficial
+**Twitter:** https://twitter.com/cubicgamesxyz
 
 ### GitHub Repository (Optional)
 
-[GitHub Repository](https://github.com/CubicupDAO)
+[GitHub Repository](https://github.com/CubicGames)
 
 ## Project Description 
 
-Cubicup is a gaming toolset on Sui, onboarding millions of users and game studios to the Web3 gaming era.
+Cubic is a gaming toolset on Sui, onboarding millions of users and game studios to the Web3 gaming era.
 
-Cubicup is a comprehensive platform designed to offer a user-friendly experience for users and to simplify the game development process for studios. Cubicup offers convenient login experience, multiple payment channels and a unified economic model to level up in the Cubicup ecosystem and earn rewards across multiple games. The platform also features the Sui game sdk and a range of other tools and functionalities, including AI empowerment toolsets, digital asset exchange and user growth support. 
+Cubic is a comprehensive platform designed to offer a user-friendly experience for users and to simplify the game development process for studios. Cubic offers convenient login experience, multiple payment channels and a unified economic model to level up in the Cubic ecosystem and earn rewards across multiple games. The platform also features the Sui game sdk and a range of other tools and functionalities, including AI empowerment toolsets, digital asset exchange and user growth support. 
 
 ## Eligibility
 
