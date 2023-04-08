@@ -6,11 +6,11 @@
 
 **Cubic**
 
-![Cubicup Logo](../assets/cubic_logo.png)
+![Cubic Logo](../assets/cubic_logo.png)
 
 ### Project Website
 
-[cubicup.io](https://www.cubicgames.xyz/)
+[cubicgames.xyz](https://www.cubicgames.xyz/)
 
 ### Primary Contact
 
