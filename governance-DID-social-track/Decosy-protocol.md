@@ -12,7 +12,7 @@ Decosy-Protocol
 
 ### Primary Contact
 
-Email: 
+Email: decosy415@gmail.com
 
 ### GitHub Repository (Optional)
 
