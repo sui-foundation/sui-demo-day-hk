@@ -108,7 +108,7 @@ Please sign up for a slot on the AV Check signup sheet here if interested:
 
 - The actual demo period will be in the afternoon of April 16th, 2023
 - A schedule of project demos will be provided to the participating teams in the evening of the 15th
-- **Each team will be given _six_ minutes of time to demo**, and recommended to leave some time for questions from the audience and the judge panel; the next team should prepare their demo during the previous team's Q&A section
+- **Each team will be given _six_ minutes of time to demo**, and is recommended to leave some time for questions from the audience and the judge panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
 
