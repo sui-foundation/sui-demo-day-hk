@@ -96,6 +96,10 @@ All demo teams are invited to join the builder house. If you need help with regi
 
 ### Demo Day - April 16th
 
+#### Demo Order and Final Schedule
+
+A finalized schedule of project demos, and the order of demos will be provided to the participating teams in the evening of April 15th. Please check back at this section at that time. 
+
 #### AV Check and Rehearsal 
 
 Shortlisted teams can sign up for a timeslot on the morning of **April 16th** between **10:30 AM and 1:00 PM** to practice and check that the builder house AV team has the correct slides for their demo, as well as familiarizing themselves with the stage and equipments, and that everything is in order for their demo. 
@@ -107,7 +111,6 @@ Please sign up for a slot on the AV Check signup sheet here if interested:
 #### Demo Process
 
 - The actual demo period will be in the afternoon of April 16th, 2023
-- A schedule of project demos will be provided to the participating teams in the evening of the 15th
 - **Each team will be given _six_ minutes of time to demo**, and is recommended to leave some time for questions from the audience and the judge panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
