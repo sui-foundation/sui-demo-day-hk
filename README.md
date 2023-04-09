@@ -74,7 +74,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 Registered projects will be pre-filtered for eligibility requirements and shortlisted on April 10th to give teams a better idea of whether they will be eligible to demo.
 
-If your project is registered but not on the shortlist, it's likely the project did not meet some of the eligibility requirements, with the main one being the project has to be materially integrated with Sui devnet or testnet. 
+If your project is registered but not on the shortlist, it's likely the project did not meet some of the eligibility requirements, with the main one being the project has to be materially integrated with Sui devnet or testnet. If your project has had recent updates, or you believe it was in error to not be shortlisted, please contact one of the organizers through the [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk). 
 
 The Demo Day shortlist can be found here:
 
@@ -122,7 +122,7 @@ Please sign up for a slot on the AV Check signup sheet here if interested:
 
 - Sui Foundation will invite and select a panel of judges and experts from partner organizations, VC’s, institutions, and so on
 - The rubric that judges will use to score demos can be viewed [here](https://suifoundation.notion.site/Rubric-Sui-Demo-Day-HK-bf1e821f452d48928c7988d5b942cab0)
-- Judges will submit a scoresheet for each project demo, the lowest and highest scores will be dropped, and the sum of the remaining scores will be tallied
+- Each of the judges will submit a scoresheet for each project demo, and the sum of the judges' scores will be tallied and ranked for all projects
 - Judge panel scores will be used to determine the Judge's Choice winners of each primary track
 
 ## Prize Structure
@@ -131,9 +131,8 @@ The competition results will be announced on the same day on April 16th before t
 
 Each of the four primary tracks will have the following prizes, for a combined prize pool of $50,000 USD: 
 
-- **Audience's Favorite 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on audience voting results
-- **Judge's Choice 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on judge panel scores
-- **Best New Project** ($2,500 USD), eligible to new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria
+- **Audience's Favorite 1st place** ($3,000 USD), **2nd place** ($2,000 USD) and **3rd place** ($1,250 USD) based on audience voting results
+- **Judge's Choice 1st place** ($3,000 USD), **2nd place** ($2,000 USD) and **3rd place** ($1,250 USD) based on judge panel scores
 
 ## Developer Resources
 
