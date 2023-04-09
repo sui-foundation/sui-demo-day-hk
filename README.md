@@ -102,7 +102,7 @@ Shortlisted teams can sign up for a timeslot on the morning of **April 16th** be
 
 Please sign up for a slot on the AV Check signup sheet here if interested:
 
-[AV Check Signup Sheet](https://docs.google.com/spreadsheets/d/1Fh6JoEX6LJHgKvz_ejZEdLlo8m1SVF0Z2vFY6VqJoIc/edit?usp=sharing)
+[**AV Check Signup Sheet**](https://docs.google.com/spreadsheets/d/1Fh6JoEX6LJHgKvz_ejZEdLlo8m1SVF0Z2vFY6VqJoIc/edit?usp=sharing)
 
 #### Demo Process
 
