@@ -82,7 +82,7 @@ The Demo Day shortlist can be found here:
 
 #### Demo Day Slides Submission
 
-For shortlisted teams, please submit your slides at the earliest possible time, but no later than April 15th, midnight, through this form: 
+For shortlisted teams, please submit your slides at the earliest possible time, but no later than April 15th midnight, through this form: 
 
 [**Demo Day Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
 
