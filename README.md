@@ -98,7 +98,7 @@ All demo teams are invited to join the builder house. If you need help with regi
 
 #### AV Check and Rehearsal 
 
-Shortlisted teams can sign up for a timeslot on the morning of April 16th to practice and check that the builder house AV team has the correct slides for their demo, as well as familiarizing themselves with the stage layout and equipments.
+Shortlisted teams can sign up for a timeslot on the morning of **April 16th** between **10:30 AM and 1:00 PM** to practice and check that the builder house AV team has the correct slides for their demo, as well as familiarizing themselves with the stage and equipments, and that everything is in order for their demo. 
 
 Please sign up for a slot on the AV Check signup sheet here if interested:
 
