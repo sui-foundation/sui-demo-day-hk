@@ -92,7 +92,7 @@ Workspace will be available for project teams that join the Sui Builder House in
 
 Sui Foundation will also host a number of workshops on topics such as pitching, conducting live product demos, and other relevant topics for the contest, as well as ice breakers and matching sessions for anyone looking to join a team or start a project. 
 
-All demo teams are invited to join the builder house. If you need help with registration approvals, please reach out to [Henry](https://t.me/weiduong).
+All demo teams are invited to join the builder house. If you need help with registration approvals, please reach out to one of the hosts and specify you will be participating in the Demo Day.
 
 ### Demo Day - April 16th
 
