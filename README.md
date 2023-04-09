@@ -80,12 +80,6 @@ The Demo Day shortlist can be found here:
 
 [**Sui Demo Day Hong Kong Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
 
-#### Demo Day Slides Submission
-
-For shortlisted teams, please submit your slides at the earliest possible time, but no later than April 15th midnight, through this form: 
-
-[**Demo Day Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
-
 ### Hong Kong Sui Builder House - April 14th to April 16th
 
 Workspace will be available for project teams that join the Sui Builder House in Hong Kong to continue working on their projects, demos and etc. 
