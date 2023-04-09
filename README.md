@@ -22,6 +22,8 @@ Sui Demo Day is open to both new and existing projects and developers within the
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
 - [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
+- [Demo Shortlist](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
+- [Demo Slides Submission Form](https://forms.gle/hCfRDNj7amN8QWBE7)
 
 <p align="center">
     <img src="./assets/demoqrcode2.png" alt="qrcode">
@@ -33,7 +35,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 - Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
-- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder) (TODO).
+- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](https://docs.google.com/document/d/1zYUOTXZrD8PtbpIA5Vu_8aMtzJOFhz-_j_GJg2zH0Mw/edit?usp=sharing).
 
 ## Primary Tracks
 
@@ -68,19 +70,45 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
 
+### Shortlisting - April 10th
+
+Registered projects will be pre-filtered for eligibility requirements and shortlisted on April 10th to give teams a better idea of whether they will be eligible to demo.
+
+If your project is registered but not on the shortlist, it's likely the project did not meet some of the eligibility requirements, with the main one being the project has to be materially integrated with Sui devnet or testnet. 
+
+The Demo Day shortlist can be found here:
+
+[**Demo Day Shortlisted Projects Spreadsheet**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
+
+#### Demo Day Slides Submission
+
+For shortlisted teams, please submit your slides at the earliest possible time, but no later than April 15th, midnight, through this form: 
+
+[**Demo Day Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
+
 ### Hong Kong Sui Builder House - April 14th to April 16th
 
 Workspace will be available for project teams that join the Sui Builder House in Hong Kong to continue working on their projects, demos and etc. 
 
 Sui Foundation will also host a number of workshops on topics such as pitching, conducting live product demos, and other relevant topics for the contest, as well as ice breakers and matching sessions for anyone looking to join a team or start a project. 
 
+All demo teams are invited to join the builder house. If you need help with registration approvals, please reach out to [Henry](https://t.me/weiduong).
+
 ### Demo Day - April 16th
+
+#### AV Check and Rehearsal 
+
+Shortlisted teams can sign up for a timeslot on the morning of April 16th to practice and check that the builder house AV team has the correct slides for their demo, as well as familiarizing themselves with the stage layout and equipments.
+
+Please sign up for a slot on the AV Check signup sheet here if interested:
+
+[AV Check Signup Sheet](https://docs.google.com/spreadsheets/d/1Fh6JoEX6LJHgKvz_ejZEdLlo8m1SVF0Z2vFY6VqJoIc/edit?usp=sharing)
 
 #### Demo Process
 
 - The actual demo period will be in the afternoon of April 16th, 2023
 - A schedule of project demos will be provided to the participating teams in the evening of the 15th
-- Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
+- Each team will be given **six** minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
 
@@ -89,7 +117,6 @@ Sui Foundation will also host a number of workshops on topics such as pitching, 
 - Attendees of the HK builder house can vote on projects participating in the Demo Day
 - Voting structure will be anonymous ranked preference voting by primary track
 - The voting results will be used to select for Audience Favorite prizes
-- People who participate in voting will be eligible for special Sui swag
 
 #### Panel Voting
 
