@@ -21,9 +21,9 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
-- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 - [**Demo Day Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
 - [**Demo Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
+- [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 
 <p align="center">
     <img src="./assets/demoqrcode2.png" alt="qrcode">
