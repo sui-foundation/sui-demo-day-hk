@@ -35,7 +35,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 - Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
-- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](https://docs.google.com/document/d/1zYUOTXZrD8PtbpIA5Vu_8aMtzJOFhz-_j_GJg2zH0Mw/edit?usp=sharing).
+- For detailed terms and conditions of the Sui Demo Day contest, please check [here](./TERMS.md)
 
 ## Primary Tracks
 
