@@ -78,7 +78,7 @@ If your project is registered but not on the shortlist, it's likely the project 
 
 The Demo Day shortlist can be found here:
 
-[**Demo Day Shortlisted Projects Spreadsheet**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
+[**Sui Demo Day Hong Kong Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
 
 #### Demo Day Slides Submission
 
