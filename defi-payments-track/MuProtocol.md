@@ -12,7 +12,7 @@ Mu Protocol
 
 ### Project Website
 
-Mu Protocol Website: 
+Mu Protocol Website (Testing): http://ec2-44-204-83-185.compute-1.amazonaws.com/
 
 Team/Previous Product Website: https://sperax.io/
 
@@ -20,7 +20,9 @@ Team/Previous Product Website: https://sperax.io/
 ### Primary Contact
 
 Email: muprotocol23@gmail.com
+
 Telegram: @joey0707
+
 Discord: JoeY#8088
 
 
