@@ -90,17 +90,19 @@ All demo teams are invited to join the builder house. If you need help with regi
 
 ### Demo Day - April 16th
 
-#### Demo Order and Final Schedule
+#### Demo Day Schedule
+
+The demo sessions will take place during the afternoon of April 16th, from 1 PM to 4 PM. The results announcement and award ceremony will be shortly after the end of the two demo sessions from 4:30 PM to 4:45 PM. 
+
+<p align="center">
+    <img src="./assets/demodayschedule.png" alt="demodayschedule">
+</p>
+
+[Full Demo Day Schedule](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
+
+#### Demo Order
 
 A finalized schedule of project demos, and the order of demos will be provided to the participating teams in the evening of April 15th. Please check back at this section at that time. 
-
-#### AV Check and Rehearsal 
-
-Shortlisted teams can sign up for a timeslot on the morning of **April 16th** between **10:30 AM and 1:00 PM** to practice and check that the builder house AV team has the correct slides for their demo, as well as familiarizing themselves with the stage and equipments, and that everything is in order for their demo. 
-
-Please sign up for a slot on the AV Check signup sheet here if interested:
-
-[**AV Check Signup Sheet**](https://docs.google.com/spreadsheets/d/1Fh6JoEX6LJHgKvz_ejZEdLlo8m1SVF0Z2vFY6VqJoIc/edit?usp=sharing)
 
 #### Demo Process
 
@@ -108,6 +110,7 @@ Please sign up for a slot on the AV Check signup sheet here if interested:
 - **Each team will be given _six_ minutes of time to demo**, and is recommended to leave some time for questions from the audience and the judge panel; the next team should prepare their demo during the previous team's Q&A section
 
     *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
+- Teams who are not present when called according to the demo order will be passed immediately. Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit. 
 
 #### Audience Voting
 
