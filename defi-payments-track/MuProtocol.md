@@ -26,7 +26,11 @@
 
 ### GitHub Repository (Optional)
 
-* [The public version](https://github.com/MuProtocolTeam/Mu-Protocol-Public) of the Mu Protocol
+Public version of Mu Protocol:
+
+* [Sui Move Package](https://github.com/MuProtocolTeam/Mu-Protocol-Public)
+
+* [JS Frontend](https://github.com/MuProtocolTeam/Mu-Protocol-Website-Public)
 
 ## Project Description 
 
