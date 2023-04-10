@@ -1,34 +1,32 @@
-# Mu Protocol: the ultimate Sui blockchain stablecoin solution for liquidity and payment built for and beyond GameFi
+# Mu Protocol: the ultimate Sui stablecoin solution to liquidity and payment problems for and beyond GameFi
 
 ## Basic Information
 
 ### Project Name or Logo
 
-Mu Protocol
+* Name: Mu Protocol
 
-[Logo (.png)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/MuProtocol.png)
-
-[Logo (.svg)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/icon_website_logo.svg)
+* Logo: [Logo (.png)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/MuProtocol.png), [Logo (.svg)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/icon_website_logo.svg)
 
 ### Project Website
 
-Mu Protocol Website (Testing): http://ec2-44-204-83-185.compute-1.amazonaws.com/
+* Mu Protocol Website (Testing): http://ec2-44-204-83-185.compute-1.amazonaws.com/
 
-Team/Previous Product Website: https://sperax.io/
+* Team Website (Previous Stablecoin Product): https://sperax.io/
 
 
 ### Primary Contact
 
-Email: muprotocol23@gmail.com
+* Email: muprotocol23@gmail.com
 
-Telegram: @joey0707
+* Telegram: @joey0707
 
-Discord: JoeY#8088
+* Discord: JoeY#8088
 
 
 ### GitHub Repository (Optional)
 
-Enter the project's GitHub repo URL here, optional if not open source
+* [The public version](https://github.com/MuProtocolTeam/Mu-Protocol-Public) of the Mu Protocol
 
 ## Project Description 
 
