@@ -96,11 +96,11 @@ The demo sessions will take place during the afternoon of April 16th, from 1 PM 
 
 There will be two demo sessions that cover the primary tracks as below:
 
-- Session One:
+- **Session One:**
     - NFT & Gaming
     - Infrastructure & Dev Tooling
     - DID, Governance & Social
-- Session Two: 
+- **Session Two:**
     - DeFi and Payments
 
 <p align="center">
