@@ -7,11 +7,13 @@
 Mu Protocol
 
 [Logo (.png)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/MuProtocol.png)
+
 [Logo (.svg)](https://github.com/MuProtocolTeam/Mu-Protocol-Website/blob/main/images/icon_website_logo.svg)
 
 ### Project Website
 
 Mu Protocol Website: 
+
 Team/Previous Product Website: https://sperax.io/
 
 
