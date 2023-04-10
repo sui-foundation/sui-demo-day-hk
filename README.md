@@ -98,7 +98,7 @@ The demo sessions will take place during the afternoon of April 16th, from 1 PM 
     <img src="./assets/demodayschedule.png" alt="demodayschedule">
 </p>
 
-[Full Demo Day Schedule](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
+[**Full Demo Day Schedule**](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
 
 #### Demo Order
 
