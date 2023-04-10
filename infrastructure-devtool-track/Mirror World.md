@@ -15,6 +15,7 @@ https://www.mirrorworld.fun/
 ### Primary Contact
 
 Email: zhujialin@mirrorworld.fun
+Twitter: https://twitter.com/MirrorPlatform
 
 ### GitHub Repository (Optional)
 
