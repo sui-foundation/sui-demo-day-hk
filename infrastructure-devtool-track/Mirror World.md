@@ -4,9 +4,9 @@
 
 ### Project Name or Logo
 
-Mirror World
+**Mirror World**  
 
-logo: https://drive.google.com/drive/folders/1Gw79wvnMJZbbJqXqiwmaUDy2MRfHI_bJ
+**logo**: https://drive.google.com/drive/folders/1Gw79wvnMJZbbJqXqiwmaUDy2MRfHI_bJ
 
 ### Project Website
 
@@ -14,8 +14,9 @@ https://www.mirrorworld.fun/
 
 ### Primary Contact
 
-Email: zhujialin@mirrorworld.fun
-Twitter: https://twitter.com/MirrorPlatform
+**Email**: zhujialin@mirrorworld.fun  
+
+**Twitter**: https://twitter.com/MirrorPlatform
 
 ### GitHub Repository (Optional)
 
