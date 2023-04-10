@@ -1,4 +1,4 @@
-# MuseBot.AI  An NFT eco leader built on Sui
+# MuseBot.AI  A next-gen NFTs engine powered by AIGC on Sui
 
 **MuseBot.AI**
 
