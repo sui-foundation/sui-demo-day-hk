@@ -10,7 +10,7 @@
 
 ### Project Website
 
-https://www.mirrorworld.fun/
+https://www.mirrorworld.fun
 
 ### Primary Contact
 
