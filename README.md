@@ -94,6 +94,15 @@ All demo teams are invited to join the builder house. If you need help with regi
 
 The demo sessions will take place during the afternoon of April 16th, from 1 PM to 4 PM. The results announcement and award ceremony will be shortly after the end of the two demo sessions from 4:30 PM to 4:45 PM. 
 
+There will be two demo sessions that cover the primary tracks as below:
+
+- Session One:
+    - NFT & Gaming
+    - Infrastructure & Dev Tooling
+    - DID, Governance & Social
+- Session Two: 
+    - DeFi and Payments
+
 <p align="center">
     <img src="./assets/demodayschedule.png" alt="demodayschedule">
 </p>
