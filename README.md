@@ -101,7 +101,7 @@ There will be two demo sessions that cover the primary tracks as below:
     - **Infrastructure & Dev Tooling**
     - **DID, Governance & Social**
 - **Session Two:**
-    - **DeFi and Payments**
+    - **DeFi and Payments** 
 
 <p align="center">
     <img src="./assets/demodayschedule.png" alt="demodayschedule">
@@ -115,11 +115,9 @@ A finalized schedule of project demos, and the order of demos will be provided t
 
 #### Demo Process
 
-- The actual demo period will be in the afternoon of April 16th, 2023
-- **Each team will be given _six_ minutes of time to demo**, and is recommended to leave some time for questions from the audience and the judge panel; the next team should prepare their demo during the previous team's Q&A section
-
-    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
-- Teams who are not present when called according to the demo order will be passed immediately. Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit. 
+- **Each team will be given _six_ minutes of time to demo**. The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q & A from the audience and the judge panel
+- Teams who are not present when called according to the demo order will be passed immediately
+- Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit
 
 #### Audience Voting
 
