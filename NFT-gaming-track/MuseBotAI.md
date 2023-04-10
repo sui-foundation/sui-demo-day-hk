@@ -5,7 +5,7 @@
 ![MuseBot.AI Logo](../assets/MuseBot.AI%20Logo.png)
 
 ### Project Website
-[MuseBot.AI](https://sui.musebot.ai/)
+[Sui.MuseBot.AI](https://sui.musebot.ai/)
 
 ### Primary Contact
 
