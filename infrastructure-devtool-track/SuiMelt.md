@@ -13,11 +13,13 @@ suimelt.com
 
 ### Primary Contact
 
-E-mail: cyberbosyu@gmail.com
+**E-mail**: cyberbosyu@gmail.com
 
-twitter: https://twitter.com/SuiMelt_
+**Discord**: https://discord.gg/7rGJdV8u
 
-discord: https://discord.gg/7rGJdV8u
+### GitHub Repository
+
+https://github.com/yueyangxiaoyi/suimult.git
 
 ## Project Description 
 - SuiMelt is Sui's first NFT marketplace powered by its premier Automated Market
