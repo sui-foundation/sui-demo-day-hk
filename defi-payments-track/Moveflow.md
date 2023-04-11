@@ -10,7 +10,7 @@ Moveflow
 
 ### Project Website
 
-https://www.moveflow.xyz
+https://sui.moveflow.xyz
 
 ### Primary Contact
 
