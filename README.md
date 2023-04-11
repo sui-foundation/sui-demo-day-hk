@@ -116,7 +116,7 @@ A finalized schedule of project demos, and the order of demos will be provided t
 
 #### Demo Process
 
-- **Each team will be given _five_ or _six_ minutes of time to demo** (depends on final number of teams demoing). The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q&A from the audience and the judge panel
+- **Each team will be given _five_ minutes of time to demo** (depends on final number of teams demoing). The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q&A from the audience and the judge panel
 - Teams who are not present when called according to the demo order will be passed immediately
 - Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit
 
