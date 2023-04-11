@@ -27,8 +27,20 @@ https://github.com/umi-ag
 
 ## Project Description 
 
-Umi Aggregator is a DEX scaling layer built on top of Sui.
-We realize a large liquidity pool by combining multiple DEX pools, search for optimal trade paths, and deliver tokens at the best exchange rate.
+Umi Aggregator is a DEX scaling layer that combines multiple DEX pools to create a large liquidity pool, searches for optimal trade paths, and delivers tokens at the best exchange rate, built on top of Sui.
+
+### Motivation
+
+For users, finding the best exchange rate among various DEXs can be a cumbersome and time-consuming process. They have to manually search for each DEX, compare the rates, and then make a decision. This is where Umi Aggregator comes in as a solution to this problem.
+
+### How we solve
+
+We discover the most optimal price at a given point by collecting on-chain data and using graph search algorithms. Additionally, we provide APIs and SDKs, in addition to a web UI, to make it easy for other projects to integrate Umi Aggregator into their products.
+
+### Use cases
+- Coin trading for individual traders
+- Spot market payments for DAO and DeFi protocols
+- Crypto payment for payment businesses
 
 ## Eligibility
 
