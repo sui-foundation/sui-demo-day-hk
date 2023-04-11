@@ -58,7 +58,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 ## Contest Structure
 
-### Registration Period - March 15th to April 15th
+### Registration Period - March 15th to April 11th, 9 PM
 
 1. Register for the Sui Demo Day by following the steps described above
 
