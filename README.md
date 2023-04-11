@@ -21,6 +21,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
+- **New Registration Cutoff**: April 11th, 11 PM HKT
 - [**Demo Day Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
 - [**Demo Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
 - [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
@@ -58,13 +59,13 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 ## Contest Structure
 
-### Registration Period - March 15th to April 11th, 9 PM
+### Registration Period - March 15th to April 11th, 9 PM HKT
 
 1. Register for the Sui Demo Day by following the steps described above
 
 2. The submitted project information above will be public and used by in the audience voting and panel judging process.
 
-4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
+4. Registered teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
 
 5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
