@@ -110,9 +110,9 @@ There will be two demo sessions that cover the primary tracks as below:
 
 [**Full Demo Day Schedule**](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
 
-#### Project Information and Demo Call Order 
+#### Project Information and Demo Order 
 
-The overview of participating projects and the demo call order can be found on this Notion page: 
+The overview of participating projects and the demo order can be found on this Notion page: 
 
 [**Project Information and Demo Order**](https://suifoundation.notion.site/Sui-Demo-Day-Project-Information-3133b35d060549898e191a1a11470530)
 
