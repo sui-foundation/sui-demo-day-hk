@@ -12,7 +12,7 @@ HighSea-Protocol
 
 ### Primary Contact
 
-Email: decosy415@gmail.com
+Email: highseaprotocol@gmail.com
 
 ### GitHub Repository (Optional)
 
