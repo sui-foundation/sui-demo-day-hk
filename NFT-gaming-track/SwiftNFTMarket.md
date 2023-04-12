@@ -5,7 +5,7 @@
 ![SwiftNFTMarket Logo](../assets/swiftnftmarket.png)
 
 ### Project Website
-[SwiftNFTMarket.com](https://swiftnftmarket.io/)
+[SwiftNFTMarket.io](https://market.swiftnftmarket.io/)
 
 ### Primary Contact
 
