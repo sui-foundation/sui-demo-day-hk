@@ -1,5 +1,6 @@
 ### Project Name or Logo
 
+![alt text](../assets/kriya_dex_logo.png)
 KriyaDEX (built by Efficacy Labs)
 
 <br/>
