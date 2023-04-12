@@ -114,7 +114,7 @@ There will be two demo sessions that cover the primary tracks as below:
 
 The overview of participating projects and the demo call order can be found on this Notion page: 
 
-[Project Overview and Demo Order](https://suifoundation.notion.site/Sui-Demo-Day-Project-Information-3133b35d060549898e191a1a11470530)
+[**Project Information and Demo Order**](https://suifoundation.notion.site/Sui-Demo-Day-Project-Information-3133b35d060549898e191a1a11470530)
 
 #### Demo Process
 
