@@ -9,7 +9,7 @@ SuiMelt
 
 ### Project Website
 
-suimelt.com
+[suimelt.com](https://suimelt.com/)
 
 ### Primary Contact
 
