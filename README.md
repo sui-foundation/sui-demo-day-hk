@@ -23,7 +23,6 @@ Sui Demo Day is open to both new and existing projects and developers within the
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
 - **New Registration Cutoff**: April 11th, 11 PM HKT
 - [**Demo Day Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
-- [**Demo Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
 - [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 
 <p align="center">
