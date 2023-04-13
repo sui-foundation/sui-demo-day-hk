@@ -13,6 +13,10 @@
 
 **Twitter:** https://twitter.com/SwiftNFTMarket
 
+### GitHub Repository (Optional)
+
+https://github.com/swift-mx/suinftmarket
+
 ## Project Description
 
 A faster and safer multifunctional NFT trading market on SUI blockchain
