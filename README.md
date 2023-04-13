@@ -110,13 +110,15 @@ There will be two demo sessions that cover the primary tracks as below:
 
 [**Full Demo Day Schedule**](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
 
-#### Demo Order
+#### Project Information and Demo Order 
 
-A finalized schedule of project demos, and the order of demos will be provided to the participating teams in the evening of April 15th. Please check back at this section at that time. 
+The overview of participating projects and the demo order can be found on this Notion page: 
+
+[**Project Information and Demo Order**](https://suifoundation.notion.site/Sui-Demo-Day-Project-Information-3133b35d060549898e191a1a11470530)
 
 #### Demo Process
 
-- **Each team will be given _five_ or _six_ minutes of time to demo** (depends on final number of teams demoing). The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q&A from the audience and the judge panel
+- **Each team will be given _five_ minutes of time to demo**. The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q&A from the audience and the judge panel
 - Teams who are not present when called according to the demo order will be passed immediately
 - Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit
 
@@ -124,7 +126,8 @@ A finalized schedule of project demos, and the order of demos will be provided t
 
 - Attendees of the HK builder house can vote on projects participating in the Demo Day
 - Voting structure will be anonymous ranked preference voting by primary track
-- The voting results will be used to select for Audience Favorite prizes
+- Each ballot can choose up to three teams per primary track. The 1st choice team will receive 7 points, 2nd choice team will receive 3 points, and 3rd choice team will receive 1 point. 
+- The total points will be tallied and ranked to determine the Audience Favorite prizes for each track. 
 
 #### Panel Voting
 
