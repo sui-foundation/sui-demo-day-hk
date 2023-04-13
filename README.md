@@ -21,6 +21,9 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
     _If you are planning to participate in the Sui Demo Day, please indicate that when you register for the HK Builder House._
 - **Presentation Language**: Presentations can be in either Cantonese, English or Mandarin. Conference interpreters will be available during the Demo Day session
+- **New Registration Cutoff**: April 11th, 11 PM HKT
+- [**Demo Day Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
+- [**Demo Slides Submission Form**](https://forms.gle/hCfRDNj7amN8QWBE7)
 - [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk)
 
 <p align="center">
@@ -33,7 +36,7 @@ Sui Demo Day is open to both new and existing projects and developers within the
 - Both new and existing Sui projects are welcome to participate
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
-- For detailed legal terms and conditions of the Sui Demo Day contest, please check [here](placeholder) (TODO).
+- For detailed terms and conditions of the Sui Demo Day contest, please check [here](./TERMS.md)
 
 ## Primary Tracks
 
@@ -56,17 +59,27 @@ Sui Demo Day is open to both new and existing projects and developers within the
 
 ## Contest Structure
 
-### Registration Period - March 15th to April 15th
+### Registration Period - March 15th to April 11th, 9 PM HKT
 
 1. Register for the Sui Demo Day by following the steps described above
 
 2. The submitted project information above will be public and used by in the audience voting and panel judging process.
 
-4. Teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
+4. Registered teams are able to update their submitted project information up until April 15th, 23:59pm by submitting additional PR's to this repo.
 
 5. Join the [Sui Demo Day @ HK Telegram group](https://t.me/sui_demo_day_hk) for coordination of the contest.
 
     _Note: For individuals interested in forming or joining a team, please join the `Team Forming` channel in the Telegram super group above to look for a team or other teammates. Once the project team is confirmed, please register using the team registration flow._
+
+### Shortlisting - April 10th
+
+Registered projects will be pre-filtered for eligibility requirements and shortlisted on April 10th to give teams a better idea of whether they will be eligible to demo.
+
+If your project is registered but not on the shortlist, it's likely the project did not meet some of the eligibility requirements, with the main one being the project has to be materially integrated with Sui devnet or testnet. If your project has had recent updates, or you believe it was in error to not be shortlisted, please contact one of the organizers through the [**Sui Demo Day Telegram Group**](https://t.me/sui_demo_day_hk). 
+
+The Demo Day shortlist can be found here:
+
+[**Sui Demo Day Hong Kong Shortlist**](https://docs.google.com/spreadsheets/d/1cmnXwqVPCegaYAubdhNANbsFASCIiSGrAzPrSDIEnvc/edit?usp=sharing)
 
 ### Hong Kong Sui Builder House - April 14th to April 16th
 
@@ -74,28 +87,50 @@ Workspace will be available for project teams that join the Sui Builder House in
 
 Sui Foundation will also host a number of workshops on topics such as pitching, conducting live product demos, and other relevant topics for the contest, as well as ice breakers and matching sessions for anyone looking to join a team or start a project. 
 
+All demo teams are invited to join the builder house. If you need help with registration approvals, please reach out to one of the hosts and specify you will be participating in the Demo Day.
+
 ### Demo Day - April 16th
+
+#### Demo Day Schedule
+
+The demo sessions will take place during the afternoon of April 16th, from 1 PM to 4 PM. The results announcement and award ceremony will be shortly after the end of the two demo sessions from 4:30 PM to 4:45 PM. 
+
+There will be two demo sessions that cover the primary tracks as below:
+
+- **Session One:**
+    - _NFT & Gaming_
+    - _Infrastructure & Dev Tooling_
+    - _DID, Governance & Social_
+- **Session Two:**
+    - _DeFi and Payments_
+
+<p align="center">
+    <img src="./assets/demodayschedule.png" alt="demodayschedule">
+</p>
+
+[**Full Demo Day Schedule**](https://suifoundation.notion.site/DAY-3-Sunday-April-16th-Sui-DEMO-Day-af3ee61673674c618abf34b0a6b480a8)
+
+#### Demo Order
+
+A finalized schedule of project demos, and the order of demos will be provided to the participating teams in the evening of April 15th. Please check back at this section at that time. 
 
 #### Demo Process
 
-- The actual demo period will be in the afternoon of April 16th, 2023
-- A schedule of project demos will be provided to the participating teams in the evening of the 15th
-- Each team will be given X minutes of time to demo, and leaving at least 2 minutes for questions from the audience and the panel; the next team should prepare their demo during the previous team's Q&A section
-
-    *It is our intent to allow as many teams building on Sui to have a chance to demo as possible, but we will filter out projects that do not meet the eligibility requirements, haven't filled out the registration information, or otherwise showing a low degree of effort*
+- **Each team will be given _five_ or _six_ minutes of time to demo** (depends on final number of teams demoing). The team can distribute the time how they wish, but it's recommended to leave a minute or two for Q&A from the audience and the judge panel
+- Teams who are not present when called according to the demo order will be passed immediately
+- Teams who were passed previously will be called again at the end of their demo session; not being present again will be deemed a forfeit
 
 #### Audience Voting
 
 - Attendees of the HK builder house can vote on projects participating in the Demo Day
 - Voting structure will be anonymous ranked preference voting by primary track
 - The voting results will be used to select for Audience Favorite prizes
-- People who participate in voting will be eligible for special Sui swag
 
 #### Panel Voting
 
 - Sui Foundation will invite and select a panel of judges and experts from partner organizations, VC’s, institutions, and so on
 - The rubric that judges will use to score demos can be viewed [here](https://suifoundation.notion.site/Rubric-Sui-Demo-Day-HK-bf1e821f452d48928c7988d5b942cab0)
-- Judges will submit a scoresheet for each project demo, the lowest and highest scores will be dropped, and the sum of the remaining scores will be tallied
+- Each of the judges will submit a scoresheet for each project demo, and the sum of the judges' scores will be tallied and ranked for all projects
 - Judge panel scores will be used to determine the Judge's Choice winners of each primary track
 
 ## Prize Structure
@@ -104,9 +139,8 @@ The competition results will be announced on the same day on April 16th before t
 
 Each of the four primary tracks will have the following prizes, for a combined prize pool of $50,000 USD: 
 
-- **Audience's Favorite 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on audience voting results
-- **Judge's Choice 1st place** ($3,000 USD) and **2nd place** ($2,000 USD) based on judge panel scores
-- **Best New Project** ($2,500 USD), eligible to new projects built and deployed after the contest announcement on March 15th, based on a 50/50 weight of the above two criteria
+- **Audience's Favorite 1st place** ($3,000 USD), **2nd place** ($2,000 USD) and **3rd place** ($1,250 USD) based on audience voting results
+- **Judge's Choice 1st place** ($3,000 USD), **2nd place** ($2,000 USD) and **3rd place** ($1,250 USD) based on judge panel scores
 
 ## Developer Resources
 
